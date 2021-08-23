@@ -10,8 +10,9 @@ In this report, I will explain in detail the steps needed to install and run Car
 
 Running my python program (usepose2.py):
 
-Not all the python files here are important. The files inside the "learning progress" folder were simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**
-Copy **usepose2.py** and the two folders **input_img** and **output_images** into **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**
+Not all the python files here are important. The files inside the "learning progress" folder were simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**. AKA you don't need to run those.
+
+Copy **usepose2.py** and the two folders empty **input_img** and **output_images** into **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Make sure you have a camera or webcam working for your PC.
 To run this program:
 
 ●	Launch Carla and wait for it to load up. 
