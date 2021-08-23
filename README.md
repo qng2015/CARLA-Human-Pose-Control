@@ -64,3 +64,7 @@ You may see some errors due to some actors spawn in the same spot but we can ign
 
 ![image](https://user-images.githubusercontent.com/60516143/130526572-71027b04-3fed-45cf-82e1-1350bb55c301.png)
 
+As for my own python script, we will need to install a few more modules to run it. The most important one is PyTorch:
+Installing Pytorch: 
+The command to install PyTorch differs depending on what you tick on their installation page. https://pytorch.org/get-started/locally/
+My PC did not have a CUDA capable GPU, so I had to pick CPU in the “Compute Platform” Here was what I chose for my PC:
