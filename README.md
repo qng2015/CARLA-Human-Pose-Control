@@ -21,4 +21,6 @@ To run this program:
     conda activate EnvironmentName
 ●	Navigate to the directory: CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples 
 
-●	Once Carla finishes loading up, type into command prompt:  “python usepose2.py”
+●	Once Carla finishes loading up, type into command prompt:  
+
+    python usepose2.py
