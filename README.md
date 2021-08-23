@@ -33,10 +33,14 @@ Then click OK.
 
 This anaconda’s base environment is Python 3.8. So, we must create a new environment that utilizes Python 3.7 in order to use Carla’s Python API. To do that, type this into command prompt (env37 is the name I chose for this new environment):
 **conda create -n env37 python=3.7**
+
 Now to enter this environment, type this into command prompt: **conda activate env37**
+
 Here, you can finally run any python file that has “import carla”. To run a .py file: 
 	python example.py
 Now back to Carla. Once the download is done, extract the zip folder.
 Most of the python API examples are located in:
-**CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. This is also where I placed my code. But first, run the Carla simulation executable: CARLA_0.9.10\WindowsNoEditor\CarlaUE4.exe. It may take a while to launch. Once it’s open, you can move the camera around the city by holding left/right mouse combined with the keys W-A-S-D. 
+**CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. 
+
+This is also where I placed my code. But first, run the Carla simulation executable: CARLA_0.9.10\WindowsNoEditor\CarlaUE4.exe. It may take a while to launch. Once it’s open, you can move the camera around the city by holding left/right mouse combined with the keys W-A-S-D. 
 
