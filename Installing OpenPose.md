@@ -8,4 +8,4 @@ Extract the zip folder and then to test run OpenPose, use PowerShell, navigate t
 If this doesn’t work or return an error about CUDA out of memory, try lower the resolution:
 
     bin\OpenPoseDemo.exe --video examples/media/video.avi --net_resolution -1x256
-This number 256 in this command can be replaced with a lower number but must be a multiple of 16.
+The number 256 in this command can be replaced with a lower number but **must be a multiple of 16**.
