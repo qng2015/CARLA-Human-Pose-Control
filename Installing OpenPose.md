@@ -1,0 +1,1 @@
+Installing OpenPose from source was unsuccessful for me. Therefore, I went with the Portable version. There are different prerequisites for different OS, all listed here: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/1_prerequisites.md#windows-prerequisites
