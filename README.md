@@ -9,4 +9,5 @@ In this report, I will explain in detail the steps needed to install and run Car
 3) OpenPose Installation: https://github.com/qng2015/CARLA-Human-Pose-Control/blob/main/Installing%20OpenPose.md
 
 Running my python program (usepose2.py):
-Not all the python files here are important. The files inside the "learning progress" folder was simply my study progress of these requirements that eventually led to the finalized **usepose2.py**
+
+Not all the python files here are important. The files inside the "learning progress" folder was simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**
