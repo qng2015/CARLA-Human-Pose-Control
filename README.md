@@ -53,7 +53,9 @@ Let’s test the API by spawning some cars or pedestrians. On command prompt, na
 ![image](https://user-images.githubusercontent.com/60516143/130526390-d7c34bb5-0852-4952-bbde-d4326724a0b2.png)
 
 type: 
+
 	python spawn_npc.py -n 25
-If you are missing some python packages (such as numpy or pygame...), **install them while inside the new anaconda environment** by using the pip command, for example:  
+If you are missing some python packages (such as numpy or pygame...), **install them while inside the new anaconda environment** by using the pip command, for example: 
+
 	pip install numpy
 	
