@@ -1,0 +1,3 @@
+The command to install PyTorch differs depending on what you tick on their installation page. https://pytorch.org/get-started/locally/
+My PC did not have a CUDA capable GPU, so I had to pick CPU in the “Compute Platform” Here was what I chose for my PC:
+
