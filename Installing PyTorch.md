@@ -5,5 +5,6 @@ It all comes down to your PC specs. My PC did not have a CUDA capable GPU, so I 
 
 Again, before you install, activate your conda environment via command prompt or powershell if you haven’t: 
 
-  conda activate EnvironmentName
+    conda activate EnvironmentName
+    
 Then, install Pytorch with the command they give you in the screenshot above.
