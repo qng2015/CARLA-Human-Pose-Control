@@ -7,4 +7,4 @@ Again, before you install, activate your conda environment via command prompt or
 
     conda activate EnvironmentName
     
-Then, install Pytorch with the command they give you in the screenshot above.
+My EnvironmentName was "env37".Then, install Pytorch with the command they give you in the screenshot above.
