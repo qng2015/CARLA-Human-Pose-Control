@@ -36,8 +36,9 @@ This anaconda’s base environment is Python 3.8. So, we must create a new envir
 
 Now to enter this environment, type this into command prompt: **conda activate env37**
 
-Here, you can finally run any python file that has “import carla”. To run a .py file: 
-	python example.py
+Here, you can finally run any python file that has “import carla”. To run a .py file:
+
+	**python example.py**
 Now back to Carla. Once the download is done, extract the zip folder.
 Most of the python API examples are located in:
 **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. 
