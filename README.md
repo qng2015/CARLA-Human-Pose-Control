@@ -21,9 +21,12 @@ Here I did not selected “add Anaconda3 to my path” which means I will have t
 ![image](https://user-images.githubusercontent.com/60516143/130525337-0b511c53-f9f5-4e33-be30-0478853ea13d.png)
 To change environment variable path manually:
 Press the windows key → search “environment” → open
+
 ![image](https://user-images.githubusercontent.com/60516143/130525385-564024ed-240e-42e0-b568-43ba839da939.png)
+
 We will eventually get to this following screen. In System Variables, Click on Path → Edit :
 ![image](https://user-images.githubusercontent.com/60516143/130525410-27d80776-a702-4cc0-8472-092a1621a1a7.png)
+
 Now, click New and add **C:\Users\yourUserName\anaconda3\Scripts**
 Then click OK.
 
