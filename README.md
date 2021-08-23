@@ -19,9 +19,9 @@ This download may take a while. So in the meantime, let’s move on to installin
 Download the exe and double click to install
 Here I did not selected “add Anaconda3 to my path” which means I will have to do it manually later:
 ![image](https://user-images.githubusercontent.com/60516143/130525337-0b511c53-f9f5-4e33-be30-0478853ea13d.png)
+
 To change environment variable path manually:
 Press the windows key → search “environment” → open
-
 ![image](https://user-images.githubusercontent.com/60516143/130525385-564024ed-240e-42e0-b568-43ba839da939.png)
 
 We will eventually get to this following screen. In System Variables, Click on Path → Edit :
