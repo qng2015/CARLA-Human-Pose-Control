@@ -49,7 +49,8 @@ Most of the python API examples are located in:
 This is also where I placed my code. **But first, run the Carla simulation executable: CARLA_0.9.10\WindowsNoEditor\CarlaUE4.exe**. It may take a while to launch. Once it’s open, you can move the camera around the city by holding left/right mouse combined with the keys W-A-S-D. 
 ![image](https://user-images.githubusercontent.com/60516143/130526290-298b1d95-9fdc-47b2-ac74-89951934d2ad.png)
 
-Let’s test the API by spawning some cars or pedestrians. On command prompt, navigate to **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Again, make sure to activate your new anaconda environment that you created (in my case: conda activate env37)
+Let’s test the API by spawning some cars or pedestrians. On command prompt, navigate to **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Again, make sure to activate your new anaconda environment that you created (in my case: conda activate env37).
+
 ![image](https://user-images.githubusercontent.com/60516143/130526390-d7c34bb5-0852-4952-bbde-d4326724a0b2.png)
 
 type: 
@@ -58,4 +59,8 @@ type:
 If you are missing some python packages (such as numpy or pygame...), **install them while inside the new anaconda environment** by using the pip command, for example: 
 
 	pip install numpy
-	
+You may see some errors due to some actors spawn in the same spot but we can ignore those errors. What’s important is that you will see some cars and people moving around in the simulation:
+![image](https://user-images.githubusercontent.com/60516143/130526565-014c8567-04bf-4221-9b74-96da7bb73bdd.png)
+
+![image](https://user-images.githubusercontent.com/60516143/130526572-71027b04-3fed-45cf-82e1-1350bb55c301.png)
+
