@@ -49,5 +49,6 @@ Most of the python API examples are located in:
 This is also where I placed my code. **But first, run the Carla simulation executable: CARLA_0.9.10\WindowsNoEditor\CarlaUE4.exe**. It may take a while to launch. Once it’s open, you can move the camera around the city by holding left/right mouse combined with the keys W-A-S-D. 
 ![image](https://user-images.githubusercontent.com/60516143/130526290-298b1d95-9fdc-47b2-ac74-89951934d2ad.png)
 
-
+Let’s test the API by spawning some cars or pedestrians. On command prompt, navigate to **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Again, make sure to activate your new anaconda environment that you created (in my case: 
+	conda activate env37)
 
