@@ -8,7 +8,7 @@ In this report, I will explain in detail the steps needed to install and run Car
 2) Pytorch Installation: https://github.com/qng2015/CARLA-Human-Pose-Control/edit/main/Installing%20PyTorch
 3) OpenPose Installation: https://github.com/qng2015/CARLA-Human-Pose-Control/blob/main/Installing%20OpenPose.md
 
-Running my python program (usepose2.py):
+Once those are installed, we can run my python program (usepose2.py):
 
 Not all the python files here are important. The files inside the "learning progress" folder were simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**. AKA you don't need to run those.
 
