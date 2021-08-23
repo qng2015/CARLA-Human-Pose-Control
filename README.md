@@ -29,4 +29,6 @@ We will eventually get to this following screen. In System Variables, Click on P
 
 Now, click New and add **C:\Users\yourUserName\anaconda3\Scripts**
 Then click OK.
+![image](https://user-images.githubusercontent.com/60516143/130525593-1d1989a3-c208-40f6-9cea-070d8e6bb2e9.png)
+
 
