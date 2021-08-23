@@ -10,4 +10,10 @@ In this report, I will explain in detail the steps needed to install and run Car
 
 Running my python program (usepose2.py):
 
-Not all the python files here are important. The files inside the "learning progress" folder was simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**
+Not all the python files here are important. The files inside the "learning progress" folder were simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**
+Copy **usepose2.py** and the two folders **input_img** and **output_images** into **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**
+To run this program:
+●	Launch Carla and wait for it to load up. 
+●	Meanwhile, activate the anaconda environment in the command prompt if you haven't already: “conda activate EnvironmentName.”
+●	Navigate to the directory: CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples 
+●	Once Carla finishes loading up, type into command prompt:  “python usepose2.py”
