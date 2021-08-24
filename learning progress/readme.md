@@ -1,2 +1,2 @@
 These files are only my progress of learning and practicing with CARLA Python API, opencv, openpose, and PyTorch,...
-They don't need to be run. These are just to show the stepping stones that eventually led to usepose2.py
+They don't need to be run. These are simply to show the stepping stones that eventually led to usepose2.py
