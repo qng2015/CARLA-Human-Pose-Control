@@ -20,7 +20,7 @@ To run this program:
 ●	Meanwhile, activate the anaconda environment in the command prompt if you haven't already: 
 
     conda activate EnvironmentName
-●	Navigate to the directory: CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples 
+●	On anaconda command prompt, navigate to the directory: CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples 
 
 ●	Once Carla finishes loading up, type into command prompt:  
 
