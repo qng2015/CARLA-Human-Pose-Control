@@ -12,7 +12,7 @@ Once those are installed, we can run my python program (usepose2.py):
 
 Not all the python files here are important. The files inside the "learning progress" folder were simply my study progress of these different API and libraries that eventually led to the finalized **usepose2.py**. AKA you don't need to run those.
 
-Copy **usepose2.py** and the two empty folders **input_img** and **output_images** into **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Make sure you have a working camera or webcam connected to PC.
+Copy **usepose2.py** along with the two empty folders **input_img** and **output_images** into **CARLA_0.9.10\WindowsNoEditor\PythonAPI\examples**. Make sure you have a working camera or webcam connected to your PC.
 To run this program:
 
 ●	Launch Carla and wait for it to load up. 
